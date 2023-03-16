@@ -1,0 +1,30 @@
+body{
+    background-color: darkolivegreen;
+}
+
+h1{
+    font-size: 50px;
+    font-style: bold;
+    font-style: italic;
+    color: bisque;
+}
+
+h2{
+    font-size: 30px;
+    color: blanchedalmond ;
+}
+
+p{
+    font-size: 20px;
+    color: beige;
+}
+
+.movie{
+    width: 20%;
+    height: 20%;
+}
+
+.trailer{
+    width: 624.4px;
+    height: 351.4px;
+}
